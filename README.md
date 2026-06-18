@@ -2,7 +2,7 @@
 
 A personal website hosted on **GitHub Pages**, built with **[Hexo 8](https://hexo.io/)** and the **[Redefine](https://github.com/EvanNotFound/hexo-theme-redefine)** theme.
 
-Live site: [chengyuanpan.github.io](https://chengyuanpan.github.io)
+Live site: [alvarpan.github.io](https://alvarpan.github.io)
 
 ---
 
